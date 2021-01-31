@@ -6,9 +6,9 @@
 //
 
 #include <iostream>
+#include "Chapter3/Chapter3.hpp"
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    mainInC3();
     return 0;
 }
