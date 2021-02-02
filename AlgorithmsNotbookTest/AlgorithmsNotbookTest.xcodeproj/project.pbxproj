@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		BF5F035625C6998400E51ABD /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BF5F035525C6998400E51ABD /* main.cpp */; };
 		BF5F036825C69FCD00E51ABD /* Chapter3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BF5F036625C69FCD00E51ABD /* Chapter3.cpp */; };
+		BF5F037825C7DD5400E51ABD /* tool_debug.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BF5F037625C7DD5400E51ABD /* tool_debug.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,6 +31,15 @@
 		BF5F036725C69FCD00E51ABD /* Chapter3.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Chapter3.hpp; sourceTree = "<group>"; };
 		BF5F036A25C6A21D00E51ABD /* B1011.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = B1011.txt; sourceTree = "<group>"; };
 		BF5F036D25C6A7BA00E51ABD /* B1016.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = B1016.txt; sourceTree = "<group>"; };
+		BF5F037325C7D54400E51ABD /* B1046.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = B1046.txt; sourceTree = "<group>"; };
+		BF5F037525C7DC8600E51ABD /* B1012.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = B1012.txt; sourceTree = "<group>"; };
+		BF5F037625C7DD5400E51ABD /* tool_debug.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = tool_debug.cpp; sourceTree = "<group>"; };
+		BF5F037725C7DD5400E51ABD /* tool_debug.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = tool_debug.hpp; sourceTree = "<group>"; };
+		BF5F037C25C91AF700E51ABD /* B1018.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = B1018.txt; sourceTree = "<group>"; };
+		BF5F037E25C9231F00E51ABD /* A1042.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = A1042.txt; sourceTree = "<group>"; };
+		BF5F038025C93A0600E51ABD /* A1046.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = A1046.txt; sourceTree = "<group>"; };
+		BF5F038225C9461700E51ABD /* B1010.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = B1010.txt; sourceTree = "<group>"; };
+		BF5F038425C94B3400E51ABD /* A1002.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = A1002.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +75,8 @@
 				BF5F036325C69F2A00E51ABD /* Chapter3 */,
 				BF5F035D25C69E8D00E51ABD /* inputs */,
 				BF5F035525C6998400E51ABD /* main.cpp */,
+				BF5F037625C7DD5400E51ABD /* tool_debug.cpp */,
+				BF5F037725C7DD5400E51ABD /* tool_debug.hpp */,
 			);
 			path = AlgorithmsNotbookTest;
 			sourceTree = "<group>";
@@ -89,6 +101,13 @@
 		BF5F036B25C6A25E00E51ABD /* Chapter3 */ = {
 			isa = PBXGroup;
 			children = (
+				BF5F038425C94B3400E51ABD /* A1002.txt */,
+				BF5F038225C9461700E51ABD /* B1010.txt */,
+				BF5F038025C93A0600E51ABD /* A1046.txt */,
+				BF5F037E25C9231F00E51ABD /* A1042.txt */,
+				BF5F037C25C91AF700E51ABD /* B1018.txt */,
+				BF5F037525C7DC8600E51ABD /* B1012.txt */,
+				BF5F037325C7D54400E51ABD /* B1046.txt */,
 				BF5F036D25C6A7BA00E51ABD /* B1016.txt */,
 				BF5F036A25C6A21D00E51ABD /* B1011.txt */,
 			);
@@ -151,6 +170,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF5F037825C7DD5400E51ABD /* tool_debug.cpp in Sources */,
 				BF5F035625C6998400E51ABD /* main.cpp in Sources */,
 				BF5F036825C69FCD00E51ABD /* Chapter3.cpp in Sources */,
 			);
