@@ -40,6 +40,13 @@
 		BF5F038025C93A0600E51ABD /* A1046.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = A1046.txt; sourceTree = "<group>"; };
 		BF5F038225C9461700E51ABD /* B1010.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = B1010.txt; sourceTree = "<group>"; };
 		BF5F038425C94B3400E51ABD /* A1002.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = A1002.txt; sourceTree = "<group>"; };
+		BF5F03A225CA4EFC00E51ABD /* A1009.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = A1009.txt; sourceTree = "<group>"; };
+		BF5F03A425CA6DE700E51ABD /* B1041.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = B1041.txt; sourceTree = "<group>"; };
+		BF5F03A625CA725F00E51ABD /* B1004.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = B1004.txt; sourceTree = "<group>"; };
+		BF5F03A825CA769200E51ABD /* B1028.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = B1028.txt; sourceTree = "<group>"; };
+		BF5F03AA25CA8BEF00E51ABD /* A1011.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = A1011.txt; sourceTree = "<group>"; };
+		BF5F03AC25CA961F00E51ABD /* A1006.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = A1006.txt; sourceTree = "<group>"; };
+		BF5F03AE25CAE5A000E51ABD /* A1036.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = A1036.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +108,13 @@
 		BF5F036B25C6A25E00E51ABD /* Chapter3 */ = {
 			isa = PBXGroup;
 			children = (
+				BF5F03AE25CAE5A000E51ABD /* A1036.txt */,
+				BF5F03AC25CA961F00E51ABD /* A1006.txt */,
+				BF5F03AA25CA8BEF00E51ABD /* A1011.txt */,
+				BF5F03A825CA769200E51ABD /* B1028.txt */,
+				BF5F03A625CA725F00E51ABD /* B1004.txt */,
+				BF5F03A425CA6DE700E51ABD /* B1041.txt */,
+				BF5F03A225CA4EFC00E51ABD /* A1009.txt */,
 				BF5F038425C94B3400E51ABD /* A1002.txt */,
 				BF5F038225C9461700E51ABD /* B1010.txt */,
 				BF5F038025C93A0600E51ABD /* A1046.txt */,
